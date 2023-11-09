@@ -1,0 +1,19 @@
+.select {
+  &__value {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    line-height: initial;
+  }
+
+  &__icon {
+    width: 20px;
+    height: 16px;
+    object-fit: contain;
+  }
+}
+
+.selectItem {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,253 @@
+{
+  "errors": {
+    "required": "pole jest wymagane",
+    "phone-template": "Na przykład: +48 000 000 000. Tylko cyfry",
+    "phone-min": "Minimum 6 cyfr",
+    "phone-max": "Maksymalnie 15 cyfr",
+    "email-inValid": "Na przykład qwerty@gmail.com"
+  },
+  "footer": {
+    "create": "Stworzony przez",
+    "team": "przez zespół"
+  },
+  "form-buttons": {
+    "submit": "Prześlij formularz",
+    "add": "Dodaj",
+    "save": "Zapisz"
+  },
+  "form-titles": {
+    "legalization-of-stay": "LEGALIZACJA POBYTU",
+    "business-consulting": "BIZNES CONSULTING",
+    "services-for-life": "USŁUGI DLA ŻYCIA",
+    "legalization-of-employment": "LEGALIZACJA ZATRUDNIENIA"
+  },
+  "form-sub-titles": {
+    "residenceCardBasedOnWork": "PRACY",
+    "residenceCardBasedOnBlueCard": "KWALIFIKACJI BLUE CARD",
+    "residenceCardBasedOnStudy": "KSZTAŁCENIA",
+    "residenceCardBasedOnBusinessFOP": "BIZNESU (DO)",
+    "residenceCardBasedOnBusinessTOV": "BIZNESU (SPÓŁKA Z O.O.)",
+    "residenceCardBasedOnFamily": "ZAMIESZKANIA Z MĘŻCZYZNĄ / KOBIETĄ / DZIECKIEM",
+    "residenceCardBasedOnHumanitarian": "PODSTAW HUMANITARNYCH (OBYWATELE BIAŁORUSI)",
+    "citizenshipGraduation": "ABSOLWENTA",
+    "residenceCardBasedOnParents": "ZAMIESZKANIA Z CHŁOPAKIEM / DZIEWCZYNĄ / RODZICAMI",
+    "euResidenceCard": "REZYDENT UNII EUROPEJSKIEJ",
+    "permanentResidenceBasedOfPolesCard": "KARTY POLAKA",
+    "definitionOfCitizenship": "POCHODZENIA (DOKUMENTY HISTORYCZNE)",
+    "polishCitizenMarriage": "MAŁŻEŃSTWA Z OBYWATELEM POLSKI",
+    "declarationOfIntentToWork": "OŚWIADCZENIE O ZAMIARZE PODJĘCIA PRACY",
+    "starostasInformation": "INFORMACJA STAROSTY",
+    "workPermit": "ZEZWOLENIE NA PRACĘ",
+    "openingCompany": "ZAŁOŻENIE SPÓŁKI (SP. Z O.O.)",
+    "openingSoleProprietorship": "ZAŁOŻENIE (DO)",
+    "virtualOffice": "WIRTUALNE BIURO DLA SPÓŁKI",
+    "gettingCertificationAndLicenses": "CERTYFIKATY, LICENCJE DLA BIZNESU",
+    "insurance": "UBEZPIECZENIE DO KARTY POBYTU",
+    "carRegistration": "REJESTRACJA SAMOCHODU W WARSZAWIE",
+    "pesel": "UZYSKANIE NUMERU PESEL",
+    "licenceChange": "WYMIANA PRAWA JAZDY W POLSCE",
+    "noCriminalRecordCertificate": "ZAŚWIADCZENIE O BRAKU KARALNOŚCI (PL)"
+  },
+  "form-submit": "Prześlij Formularz",
+  "toastify": {
+    "success": "Formularz został wysłany pomyślnie....!!!",
+    "error": "Wystąpił błąd. Spróbuj ponownie później."
+  },
+  "form-inputs": {
+    "previously-surname": {
+      "label": "Nazwisko rodowe (ENG)",
+      "description": ""
+    },
+    "fullName": {
+      "label": "Imię i nazwisko (ENG)",
+      "description": ""
+    },
+    "father-name": {
+      "label": "Imię i nazwisko ojca (ENG)",
+      "description": ""
+    },
+    "mother-name": {
+      "label": "Imię i nazwisko matki (ENG)",
+      "description": ""
+    },
+    "name-mother-maiden": {
+      "label": "Nazwisko panieńskie matki (ENG)",
+      "description": ""
+    },
+    "birth-date": {
+      "label": "Data urodzenia",
+      "description": ""
+    },
+    "birth-place": {
+      "label": "Miejsce i kraj urodzenia (ENG)",
+      "description": ""
+    },
+    "nationality": {
+      "label": "Narodowość (ENG)",
+      "description": ""
+    },
+    "citizenship": {
+      "label": "Obywatelstwo (ENG)",
+      "description": ""
+    },
+    "maritalStatus": {
+      "label": "Stan cywilny",
+      "options": {
+        "single": "Pojedynczy",
+        "married": "Żonaty",
+        "divorced": "Rozwiedziony",
+        "widowed": "Wdowa/wdowiec"
+      }
+    },
+    "education": {
+      "label": "Wykształcenie",
+      "options": {
+        "none": "brak",
+        "secondary": "średnie",
+        "higher": "wyższe"
+      }
+    },
+    "height": {
+      "label": "Wzrost",
+      "description": ""
+    },
+    "eyeColor": {
+      "label": "Kolor oczu",
+      "options": {
+        "blue": "Niebieski",
+        "green": "Zielony",
+        "brown": "Brązowy",
+        "brown-green": "Brązowo-zielony",
+        "dark-brown": "Ciemnobrązowy",
+        "dark-blue": "Ciemnoniebieski",
+        "gray": "Szary",
+        "red": "Czerwony"
+      }
+    },
+    "special-marks": {
+      "label": "Znaki szczególne (na przykład tatuaże)",
+      "description": ""
+    },
+    "pesel-number": {
+      "label": "Numer PESEL (jeżeli został nadany)",
+      "description": ""
+    },
+    "phoneNumber": {
+      "label": "Numer telefonu"
+    },
+    "telegram-nikName": {
+      "label": "Pseudonim TELEGRAM",
+      "description": ""
+    },
+    "email": {
+      "label": "Email",
+      "description": ""
+    },
+    "polish-address": {
+      "label": "Miejsce aktualnego zamieszkania w Polsce",
+      "description": ""
+    },
+    "familyMembers": {
+      "label": "Członkowie rodziny mieszkający w Polsce",
+      "description": ""
+    },
+    "previousStayInPoland": {
+      "label": "Poprzednie pobyty w Polsce w ciągu roku",
+      "description": ""
+    },
+    "previousTripsAbroad": {
+      "label": "Wyjazdy zagraniczne poza granice Polski (kraj, rok)"
+    },
+    "previousVisitToPoland": {
+      "label": "Data ostatniego wjazdu na terytorium Polski",
+      "description": ""
+    },
+    "criminalRecord": {
+      "label": "Czy byłeś karany w Polsce? (grzywny, sądy)"
+    },
+    "employerEmail": {
+      "label": "Kontakt z pracodawcą (e-mail)",
+      "description": ""
+    },
+    "employerPhone": {
+      "label": "Kontakt do pracodawcy (telefon)",
+      "description": ""
+    },
+    "accountantEmail": {
+      "label": "Kontakty księgowego (e-mail)",
+      "description": ""
+    },
+    "accountantPhone": {
+      "label": "Kontakty księgowego (telefon)",
+      "description": ""
+    },
+    "placeOfResidence": {
+      "label": "Obywatelstwo"
+    },
+    "degreeGentility": {
+      "label": "Stopień pokrewieństwa"
+    },
+    "country": {
+      "label": "Kraj"
+    },
+    "dateFromTo": {
+      "label": "Rok"
+    },
+    "openingCompany": {
+      "companyName": {
+        "label": "Nazwa firmy"
+      },
+      "companyAddress": {
+        "label": "Adres firmy"
+      },
+      "companyFounder": {
+        "label": "Założyciel firmy"
+      },
+      "companyCapital": {
+        "label": "Kapitał zakładowy (minimum 5000 PLN)"
+      },
+      "divideShares": {
+        "label": "Jak dzielone są akcje"
+      },
+      "companyDirector": {
+        "label": "Dyrektor spółki"
+      },
+      "typeOfCompany": {
+        "label": "Rodzaj działalności"
+      },
+      "companyMembers": {
+        "label": "Właściciele firmy"
+      }
+    },
+    "openingSoleProprietorship": {
+      "taxSystem": {
+        "label": "System podatkowy"
+      }
+    },
+    "virtualOfficeYes": {
+      "companyNip": {
+        "label": "Określenie NIP spółki"
+      },
+      "signingDateContract": {
+        "label": "Od kiedy chcesz podpisać umowę"
+      }
+    },
+    "insurance": {
+      "startDate": {
+        "label": "Data rozpoczęcia ubezpieczenia"
+      },
+      "endDate": {
+        "label": "Data zakończenia ubezpieczenia"
+      },
+      "sex": {
+        "label": "Płeć"
+      },
+      "insurancePlaceOfResidence": {
+        "label": "Miejsce zamieszkania w Polsce - kod pocztowy, miejscowość, ulica, numer domu lub mieszkania"
+      },
+      "passportNumber": {
+        "label": "Numer paszportu"
+      }
+    }
+  }
+}

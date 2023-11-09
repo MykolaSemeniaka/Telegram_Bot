@@ -1,0 +1,252 @@
+{
+  "errors": {
+    "required": "field is required",
+    "phone-template": "For example: +48 000 000 000. Only digits",
+    "phone-min": "Minimum 6 digits",
+    "phone-max": "Maximum 15 digits",
+    "email-inValid": "For example qwerty@gmail.com"
+  },
+  "footer": {
+    "create": "Created by",
+    "team": "team"
+  },
+  "form-titles": {
+    "legalization-of-stay": "LEGALIZATION OF STAY",
+    "business-consulting": "BUSINESS CONSULTING",
+    "services-for-life": "SERVICES FOR LIFE",
+    "legalization-of-employment": "LEGALIZATION OF EMPLOYMENT"
+  },
+  "form-sub-titles": {
+    "residenceCardBasedOnWork": "WORK",
+    "residenceCardBasedOnBlueCard": "QUALIFICATIONS BLUE CARD",
+    "residenceCardBasedOnStudy": "EDUCATION",
+    "residenceCardBasedOnBusinessFOP": "BUSINESS (SP)",
+    "residenceCardBasedOnBusinessTOV": "BUSINESS (LLC)",
+    "residenceCardBasedOnFamily": "LIVING WITH HUSBAND / WIFE / CHILD",
+    "residenceCardBasedOnHumanitarian": "HUMANITARIAN GROUNDS (BELARUSIAN CITIZENS)",
+    "citizenshipGraduation": "GRADUATE",
+    "residenceCardBasedOnParents": "LIVING WITH BOYFRIEND / GIRLFRIEND / PARENTS",
+    "euResidenceCard": "RESIDENT OF THE EUROPEAN UNION",
+    "permanentResidenceBasedOfPolesCard": "POLISH CHARTER",
+    "definitionOfCitizenship": "ORIGIN (HISTORICAL DOCUMENTS)",
+    "polishCitizenMarriage": "MARRIAGE TO A POLISH CITIZEN",
+    "declarationOfIntentToWork": "STATEMENT OF INTENT TO EMPLOY",
+    "starostasInformation": "INFORMATION OF THE DISTRICT HEAD",
+    "workPermit": "WORK PERMIT",
+    "openingCompany": "OPENING A COMPANY (LLC)",
+    "openingSoleProprietorship": "OPENING (SP)",
+    "virtualOffice": "VIRTUAL OFFICE FOR THE COMPANY",
+    "gettingCertificationAndLicenses": "CERTIFICATES, LICENSES FOR BUSINESS",
+    "insurance": "INSURANCE FOR THE RESIDENCE CARD",
+    "carRegistration": "CAR REGISTRATION IN WARSAW",
+    "pesel": "OBTAINING PESEL NUMBER",
+    "licenceChange": "REPLACEMENT OF DRIVING LICENSE IN POLAND",
+    "noCriminalRecordCertificate": "NO CRIMINAL RECORD (PL)"
+  },
+  "form-buttons": {
+    "submit": "Submit Form",
+    "add": "Add",
+    "save": "Save"
+  },
+  "toastify": {
+    "success": "Form was sent successfully....!!!",
+    "error": "There was an error. Please try again later."
+  },
+  "form-inputs": {
+    "previously-surname": {
+      "label": "Family surname (ENG)",
+      "description": ""
+    },
+    "fullName": {
+      "label": "Full Name (ENG)",
+      "description": ""
+    },
+    "father-name": {
+      "label": "Full name of the father (ENG)",
+      "description": ""
+    },
+    "mother-name": {
+      "label": "Full name of the mother (ENG)",
+      "description": ""
+    },
+    "name-mother-maiden": {
+      "label": "Mother's maiden name (ENG)",
+      "description": ""
+    },
+    "birth-date": {
+      "label": "Date of birth",
+      "description": ""
+    },
+    "birth-place": {
+      "label": "Place and country of birth (ENG)",
+      "description": ""
+    },
+    "nationality": {
+      "label": "Nationality (ENG)",
+      "description": ""
+    },
+    "citizenship": {
+      "label": "Citizenship (ENG)",
+      "description": ""
+    },
+    "maritalStatus": {
+      "label": "Marital status",
+      "options": {
+        "single": "Single",
+        "married": "Married",
+        "divorced": "Divorced",
+        "widowed": "Widow/Widower"
+      }
+    },
+    "education": {
+      "label": "Education",
+      "options": {
+        "none": "none",
+        "secondary": "secondary",
+        "higher": "higher"
+      }
+    },
+    "height": {
+      "label": "Height",
+      "description": ""
+    },
+    "eyeColor": {
+      "label": "Colour of eyes",
+      "options": {
+        "blue": "Blue",
+        "green": "Green",
+        "brown": "Brown",
+        "brown-green": "Brown-green",
+        "dark-brown": "Dark-brown",
+        "dark-blue": "Dark-blue",
+        "gray": "Gray",
+        "red": "Red"
+      }
+    },
+    "special-marks": {
+      "label": "Special marks (for example tattoos)",
+      "description": ""
+    },
+    "pesel-number": {
+      "label": "PESEL number (if applicable)",
+      "description": ""
+    },
+    "phoneNumber": {
+      "label": "Phone Number"
+    },
+    "telegram-nikName": {
+      "label": "Nickname TELEGRAM",
+      "description": ""
+    },
+    "email": {
+      "label": "Email",
+      "description": ""
+    },
+    "polish-address": {
+      "label": "Place of current residence in Poland",
+      "description": ""
+    },
+    "familyMembers": {
+      "label": "Family members residing in Poland",
+      "description": ""
+    },
+    "previousStayInPoland": {
+      "label": "Previous stays in Poland during the year",
+      "description": ""
+    },
+    "previousTripsAbroad": {
+      "label": "Foreign trips outside Poland (country, year)"
+    },
+    "previousVisitToPoland": {
+      "label": "The date of your last entry into the territory of Poland",
+      "description": ""
+    },
+    "criminalRecord": {
+      "label": "Have you been punished in Poland? (fines, courts)"
+    },
+    "employerEmail": {
+      "label": "Contact to the employer (email)",
+      "description": ""
+    },
+    "employerPhone": {
+      "label": "Contact to the employer (phone)",
+      "description": ""
+    },
+    "accountantEmail": {
+      "label": "Contacts of your accountant (email)",
+      "description": ""
+    },
+    "accountantPhone": {
+      "label": "Contacts of your accountant (phone)",
+      "description": ""
+    },
+    "placeOfResidence": {
+      "label": "Citizenship"
+    },
+    "degreeGentility": {
+      "label": "Degree of kinship"
+    },
+    "country": {
+      "label": "Country"
+    },
+    "dateFromTo": {
+      "label": "Year"
+    },
+    "openingCompany": {
+      "companyName": {
+        "label": "Company name"
+      },
+      "companyAddress": {
+        "label": "Company address"
+      },
+      "companyFounder": {
+        "label": "Company founder"
+      },
+      "companyCapital": {
+        "label": "Authorized capital (minimum PLN 5000)"
+      },
+      "divideShares": {
+        "label": "How shares are divided"
+      },
+      "companyDirector": {
+        "label": "Company Director"
+      },
+      "typeOfCompany": {
+        "label": "Type of activity"
+      },
+      "companyMembers": {
+        "label": "Company Owners"
+      }
+    },
+    "openingSoleProprietorship": {
+      "taxSystem": {
+        "label": "Tax system"
+      }
+    },
+    "virtualOfficeYes": {
+      "companyNip": {
+        "label": "Specify the company's NIP"
+      },
+      "signingDateContract": {
+        "label": "From when you want to sign the contract"
+      }
+    },
+    "insurance": {
+      "startDate": {
+        "label": "Insurance start date"
+      },
+      "endDate": {
+        "label": "Insurance end date"
+      },
+      "sex": {
+        "label": "Gender"
+      },
+      "insurancePlaceOfResidence": {
+        "label": "Place of residence in Poland - postal code, city, street, house or apartment number"
+      },
+      "passportNumber": {
+        "label": "Passport number"
+      }
+    }
+  }
+}

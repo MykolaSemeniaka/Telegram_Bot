@@ -1,0 +1,253 @@
+{
+  "errors": {
+    "required": "поле обов'язкове для заповнення",
+    "phone-template": "Наприклад: +48 000 000 000. Тільки цифри",
+    "phone-min": "Мінімум 6 цифр",
+    "phone-max": "Максимум 15 цифр",
+    "email-inValid": "Наприклад: qwerty@gmail.com"
+  },
+  "footer": {
+    "create": "Створено",
+    "team": "командою"
+  },
+  "form-buttons": {
+    "submit": "Надіслати форму",
+    "add": "Додати",
+    "save": "Зберегти"
+  },
+  "form-titles": {
+    "legalization-of-stay": "ЛЕГАЛІЗАЦІЯ ПЕРЕБУВАННЯ",
+    "business-consulting": "БІЗНЕС КОНСАЛТИНГ",
+    "services-for-life": "ПОСЛУГИ ДЛЯ ЖИТТЯ",
+    "legalization-of-employment": "ЛЕГАЛІЗАЦІЯ ПРАЦЕВЛАШТУВАННЯ"
+  },
+  "form-sub-titles": {
+    "residenceCardBasedOnWork": "РОБОТИ",
+    "residenceCardBasedOnBlueCard": "КВАЛІФІКАЦІЇ BLUE CARD",
+    "residenceCardBasedOnStudy": "НАВЧАННЯ",
+    "residenceCardBasedOnBusinessFOP": "БІЗНЕСУ (ФОП)",
+    "residenceCardBasedOnBusinessTOV": "БІЗНЕСУ (ТОВ)",
+    "residenceCardBasedOnFamily": "ПРОЖИВАННЯ С ЧОЛОВІКОМ / ЖІНКОЮ / ДИТИНОЮ",
+    "residenceCardBasedOnHumanitarian": "ГУМАНІТАРНИХ ПІДСТАВАХ (ГРОМАДЯНИ БІЛОРУСІ)",
+    "citizenshipGraduation": "АБСОЛЬВЕНТА",
+    "residenceCardBasedOnParents": "ПРОЖИВАННЯ З ХЛОПЦЕМ / ДІВЧИНОЮ / БАТЬКАМИ",
+    "euResidenceCard": "РЕЗИДЕНТ УНІЇ ЕВРОПЕЙСЬКОЇ",
+    "permanentResidenceBasedOfPolesCard": "КАРТИ ПОЛЯКА",
+    "definitionOfCitizenship": "ПОХОДЖЕННЯ (ІСТОРИЧНІ ДОКУМЕНТИ)",
+    "polishCitizenMarriage": "ШЛЮБУ З ГРОМАДЯНИНОМ ПОЛЬЩІ",
+    "declarationOfIntentToWork": "ЗАЯВА ПРО НАМІР ПРАЦЕВЛАШТУВАННЯ",
+    "starostasInformation": "ІНФОРМАЦІЯ СТАРОСТИ",
+    "workPermit": "ДОЗВІЛ НА РОБОТУ",
+    "openingCompany": "ВІДКРИТТЯ КОМПАНІЇ (ТОВ)",
+    "openingSoleProprietorship": "ВІДКРИТТЯ (ФОП)",
+    "virtualOffice": "ВІРТУАЛЬНИЙ ОФІС ДЛЯ КОМПАНІЇ",
+    "gettingCertificationAndLicenses": "СЕРТИФІКАТИ, ЛІЦЕНЗІЇ ДЛЯ БІЗНЕСУ",
+    "insurance": "СТРАХУВАННЯ ДЛЯ КАРТИ ПОБИТУ",
+    "carRegistration": "РЕЕСТРАЦІЯ АВТО У ВАРШАВІ",
+    "pesel": "ОТРИМАННЯ НОМЕРУ PESEL",
+    "licenceChange": "ЗАМІНА ВОДІЙСЬКОГО ПОСВІДЧЕННЯ У ПОЛЬЩІ",
+    "noCriminalRecordCertificate": "ДОВІДКА ПРО НЕСУДИМІСТЬ (PL)"
+  },
+  "form-submit": "Надіслати Форму",
+  "toastify": {
+    "success": "Форму успішно відправлено....!!!",
+    "error": "Виникла помилка. Будь ласка, спробуйте ще раз пізніше."
+  },
+  "form-inputs": {
+    "previously-surname": {
+      "label": "Прізвище сім'ї (ENG)",
+      "description": ""
+    },
+    "fullName": {
+      "label": "Повне ім'я (ENG)",
+      "description": ""
+    },
+    "father-name": {
+      "label": "Повне ім'я батька (ENG)",
+      "description": ""
+    },
+    "mother-name": {
+      "label": "Повне ім'я матері (ENG)",
+      "description": ""
+    },
+    "name-mother-maiden": {
+      "label": "Дівоче прізвище матері (ENG)",
+      "description": ""
+    },
+    "birth-date": {
+      "label": "Дата народження",
+      "description": ""
+    },
+    "birth-place": {
+      "label": "Місце та Країна народження (ENG)",
+      "description": ""
+    },
+    "nationality": {
+      "label": "Національність (ENG)",
+      "description": ""
+    },
+    "citizenship": {
+      "label": "Громадянство (ENG)",
+      "description": ""
+    },
+    "maritalStatus": {
+      "label": "Сімейний стан",
+      "options": {
+        "single": "Самотній",
+        "married": "У шлюбі",
+        "widowed": "Вдова/Вдовець",
+        "divorced": "В розлученні"
+      }
+    },
+    "education": {
+      "label": "Освіта",
+      "options": {
+        "none": "нема",
+        "secondary": "середня",
+        "higher": "вища"
+      }
+    },
+    "height": {
+      "label": "Зріст",
+      "description": ""
+    },
+    "eyeColor": {
+      "label": "Колір очей",
+      "options": {
+        "blue": "Синій",
+        "green": "Зелений",
+        "brown": "Коричневий",
+        "brown-green": "Коричнево-зелений",
+        "dark-brown": "Темно-коричневий",
+        "dark-blue": "Темно-синій",
+        "gray": "Сірий",
+        "red": "Червоний"
+      }
+    },
+    "special-marks": {
+      "label": "Особливі прикмети (наприклад тату)",
+      "description": ""
+    },
+    "pesel-number": {
+      "label": "Номер PESEL (якщо є)",
+      "description": ""
+    },
+    "phoneNumber": {
+      "label": "Номер Телефону"
+    },
+    "telegram-nikName": {
+      "label": "Нікнейм TELEGRAM",
+      "description": ""
+    },
+    "email": {
+      "label": "Електронна пошта",
+      "description": ""
+    },
+    "polish-address": {
+      "label": "Місце поточного проживання в Польщі",
+      "description": ""
+    },
+    "familyMembers": {
+      "label": "Члени сім'ї, які проживають у Польщі",
+      "description": ""
+    },
+    "previousStayInPoland": {
+      "label": "Попередні перебування на території Польщі за рік",
+      "description": ""
+    },
+    "previousTripsAbroad": {
+      "label": "Закордонні поїздки поза територією Польщі (країна, рік)"
+    },
+    "previousVisitToPoland": {
+      "label": "Дата Вашого останнього в'їзду на територію Польщі",
+      "description": ""
+    },
+    "criminalRecord": {
+      "label": "Ви були покарані у Польщі? (штрафи, суди)"
+    },
+    "employerEmail": {
+      "label": "Контакт з роботодавцем (електронна пошта)",
+      "description": ""
+    },
+    "employerPhone": {
+      "label": "Контакт з роботодавцем (телефон)",
+      "description": ""
+    },
+    "accountantEmail": {
+      "label": "Контакти вашого бухгалтера (електронна пошта)",
+      "description": ""
+    },
+    "accountantPhone": {
+      "label": "Контакти вашого бухгалтера (телефон)",
+      "description": ""
+    },
+    "placeOfResidence": {
+      "label": "Громадянство"
+    },
+    "degreeGentility": {
+      "label": "Ступінь спорідненості"
+    },
+    "country": {
+      "label": "Країна"
+    },
+    "dateFromTo": {
+      "label": "Рік"
+    },
+    "openingCompany": {
+      "companyName": {
+        "label": "Назва компанії"
+      },
+      "companyAddress": {
+        "label": "Адреса компанії"
+      },
+      "companyFounder": {
+        "label": " Засновник компанії"
+      },
+      "companyCapital": {
+        "label": "Статутний капітал (мінімально 5000 злотих)"
+      },
+      "divideShares": {
+        "label": "Як діляться частки"
+      },
+      "companyDirector": {
+        "label": "Директор компанії"
+      },
+      "typeOfCompany": {
+        "label": "Рід діяльності"
+      },
+      "companyMembers": {
+        "label": "Власники компанії"
+      }
+    },
+    "openingSoleProprietorship": {
+      "taxSystem": {
+        "label": "Податкова система"
+      }
+    },
+    "virtualOfficeYes": {
+      "companyNip": {
+        "label": "Вкажіть NIP компанії"
+      },
+      "signingDateContract": {
+        "label": "Від коли Ви хочете підписати договір"
+      }
+    },
+    "insurance": {
+      "startDate": {
+        "label": "Дата початку страхування"
+      },
+      "endDate": {
+        "label": "Дата кінця страхування"
+      },
+      "sex": {
+        "label": "Стать"
+      },
+      "insurancePlaceOfResidence": {
+        "label": "Місце проживання у Польщі - поштовий код, місто, вулиця, номер будинку або квартири"
+      },
+      "passportNumber": {
+        "label": "Номер паспорта"
+      }
+    }
+  }
+}
