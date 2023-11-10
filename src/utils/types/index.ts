@@ -22,4 +22,5 @@ export interface IUserParams {
 	serviceParam: string;
 	lang: string;
 	messageId: string;
+	form: string;
 }

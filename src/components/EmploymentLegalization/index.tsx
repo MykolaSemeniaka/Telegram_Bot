@@ -16,7 +16,13 @@ import { getPostUrl } from 'src/utils/helpers/get-post-url';
 import styles from './index.module.scss';
 
 export const EmploymentLegalization = () => {
-	const [userParams, setUserParams] = useState({ telegramIdParam: '', serviceParam: '', lang: '', messageId: '' });
+	const [userParams, setUserParams] = useState({
+		telegramIdParam: '',
+		serviceParam: '',
+		lang: '',
+		messageId: '',
+		form: '',
+	});
 	const { t } = useTranslation('common');
 
 	useEffect(() => {
@@ -25,6 +31,7 @@ export const EmploymentLegalization = () => {
 		const idParams = url.searchParams.get('id');
 		const language = url.searchParams.get('lang');
 		const messageId = url.searchParams.get('msgId');
+		const formParam = url.searchParams.get('form');
 		if (serviceParam && idParams) {
 			setUserParams((prev: any) => ({
 				...prev,
@@ -32,6 +39,7 @@ export const EmploymentLegalization = () => {
 				serviceParam: serviceParam,
 				lang: language,
 				messageId: messageId,
+				form: formParam,
 			}));
 		}
 	}, []);

@@ -3,7 +3,6 @@ export * from './CustomInput';
 export * from './CustomPhoneInput';
 export * from './CustomSelect';
 export * from './EmploymentLegalization';
-export * from './Footer';
 export * from './LanguageSelect';
 export * from './Logo';
 export * from './TestFormComponent';
