@@ -13,6 +13,7 @@ export const getCurrentPostValue = <T extends Record<string, any>>(inputObject: 
 		communicationLanguage: userParams.lang,
 		userTelegramId: +userParams.telegramIdParam,
 		formMessage: +userParams.messageId,
+		form: userParams.form,
 	};
 
 	const currentRest = Object.fromEntries(

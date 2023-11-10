@@ -1,8 +1,7 @@
 import { FC, ReactNode } from 'react';
 import { Inter } from 'next/font/google';
 import Head from 'next/head';
-import { Footer } from 'src/components/Footer';
-import { Header } from 'src/sections';
+import { Footer, Header } from 'src/sections';
 import styles from './index.module.scss';
 
 interface Layout {
